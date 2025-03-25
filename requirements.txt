@@ -1,5 +1,5 @@
 requests
 asyncio
-telegram
+python-telegram-botconvert_numbers
 convert_numbers
 
