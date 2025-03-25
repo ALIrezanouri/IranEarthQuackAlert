@@ -1,0 +1,6 @@
+requests
+xml.etree.ElementTree
+asyncio
+telegram
+convert_numbers
+time
